@@ -1,6 +1,4 @@
 # Projeto_Data_Mining_PUC-RIO
-Projeto de Classificacao
-
 
 PREVISÃO DE SOBREVIVÊNCIA DE CAVALOS COM BASE EM HISTÓRICO MÉDICO
 
